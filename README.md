@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @askolai
-- 👀 I’m interested in test automation, python, java and spring coding.
-- 🌱 I’m currently learning Spring Boot and mockito.
+- 👀 I’m interested in test automation, python, playwright and robot framework coding.
+- 🌱 I’m currently learning TypeScript and MML finetuning.
 - �
 - 📫 
 
