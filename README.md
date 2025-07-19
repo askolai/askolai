@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @askolai
-- 👀 I’m interested in test automation, python, playwright and robot framework coding.
-- 🌱 I’m currently learning TypeScript and MML finetuning.
-- �
-- 📫 
+👋 Hi, I’m @askolai  
+🔍 Passionate about AI and autonomous testing  
+🛠️ Building smarter testing processes, platforms & tools  
+🧠 Currently working with custom test automation, AI-driven tools & LLMs  
 
 <!---
 askolai/askolai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
